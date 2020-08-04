@@ -135,7 +135,7 @@ service apache2 reload
 
 Voici une capture d’écran de la page `index.htm`
 
-![accueil](Accueil.png)
+![accueil](accueil.png)
 
 ### 2.2 Activation des modules
 Enabling module mpm_event.
@@ -463,3 +463,4 @@ touch /var/spool/cron/crontabs/www-data
 
 sed -i '10 a 5    *    *    *    1,2,3,4,5     cd \/var\/www\/crm; php -f cron.php > \/dev\/null 2>&1' /var/spool/cron/crontabs/www-data
 ```
+
