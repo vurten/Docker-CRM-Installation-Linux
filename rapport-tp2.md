@@ -134,6 +134,7 @@ service apache2 reload
 ```
 
 Voici une capture d’écran de la page `index.htm`
+
 ![Page d'accueil](Accueil.png)
 
 ### 2.2 Activation des modules
@@ -245,7 +246,8 @@ Une fois tout est fini j'ai relance apache2 avec la commande suivante :
 sudo a2enmod php7.3
 sudo service apache2 restart
 ```
-Voici le résultat de la page `phpinfo()` ![Page phpinfo](phpinfo.png)
+Voici le résultat de la page `phpinfo()`
+![Page phpinfo](phpinfo.png)
 
 
 ### 3.2 Liste des paquets installés
