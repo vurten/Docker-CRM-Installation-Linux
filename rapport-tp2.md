@@ -135,7 +135,7 @@ service apache2 reload
 
 Voici une capture d’écran de la page `index.htm`
 
-![accueil](accueil.png)
+![accueil](Accueil.png)
 
 ### 2.2 Activation des modules
 Enabling module mpm_event.
