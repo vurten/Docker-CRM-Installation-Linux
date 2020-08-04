@@ -1,12 +1,5 @@
 # Rapport du travail pratique 2
 
-- Ce fichier est un modèle pour vous guider dans la rédaction du rapport. La première section (et le début de la section 2) vous montrent des exemples (à compléter). Dans la cinquième section, vous trouverez un exemple de comment insérer une image dans ce fichier Markdown.
-- Assurez-vous de metre **toutes** les informations demandées dans l'énoncé.
-- Donner les extraits de tous les fichiers de configuration modifiés, créer des liens vers les fichiers créés ou pertinents, afficher les captures d'écran... dans les sections appropriées.
-- Supprimer tous les commentaires <!--commentaires--> de votre rapport, avant de le remettre.
-- Votre rapport doit respecter le format Markdown, et doit être bien formé. Il doit être clair et agréable à lire une fois traduit en HTML. Vous pouvez utiliser des applications Markdown comme `Typora` ou `Formiko`, par exemple, pour rédiger votre rapport plus facilement.
-- Une pénalité être attribuée à un rapport mal formé et difficile à lire.
-
 ## Identification de l'auteur
 
 - Cours      : Utilisation et administration des systèmes informatiques
